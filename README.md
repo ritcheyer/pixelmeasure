@@ -1,5 +1,5 @@
 # pixelmeasure
-Automatically exported from [code.google.com/p/pixelmeasure](code.google.com/p/pixelmeasure)
+Automatically exported from [code.google.com/p/pixelmeasure](code.google.com/p/pixelmeasure) by Google Code.
 
 ---
 
