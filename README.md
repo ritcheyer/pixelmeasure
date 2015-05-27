@@ -8,7 +8,7 @@ If you have ever done site mockups in Photoshop and needed to mark these with pi
 I went looking for a script that would help you automatize this process. Surprised to not find one, I decided to write one myself.
 
 ## Installation
-* Download the latest version, unzip and place the Pixel Measure.jsx file in your Photoshop scripts directory (located in <your photoshop program directory>/Presets/Scripts).
+* [Download the latest version](https://code.google.com/p/pixelmeasure/downloads/list), unzip and place the Pixel Measure.jsx file in your Photoshop scripts directory (located in <your photoshop program directory>/Presets/Scripts).
 * Restart Photoshop.
 * The Pixel Measure script should now be visible in the File > Scripts menu. For ease of use you might want to create a keyboard shortcut to the script. This can be done through the Edit > Keyboard Shortcuts menu.
 
